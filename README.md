@@ -1,3 +1,3 @@
 # Tableau-Repository
-Covid 19 Cases Country wise Analysis
+Covid Cases Analysis Country wise
 Check out the video
